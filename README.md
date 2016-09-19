@@ -1,1 +1,1 @@
-This is Project 2 of the course, a finance tracker app.
+This is project 2 of the course, a finance tracker app.
