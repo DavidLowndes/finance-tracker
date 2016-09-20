@@ -21,7 +21,6 @@ init_stock_lookup = function() {
     $('#stock-lookup-errors').replaceWith('Stock was not found.');
   });
   
-  
 }
 
 $(document).ready(function() {
