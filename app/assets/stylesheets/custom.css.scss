@@ -19,6 +19,10 @@ h3 {
   padding: 0px;
 }
 
+.no-margin {
+  margin: 0px;
+}
+
 .no-left-padding {
   padding-left: 0px;
 }
@@ -41,6 +45,24 @@ h3 {
   color: #555;
   letter-spacing: 0px;
   font-weight: bold;
+}
+
+.logout {
+  padding: 3px 0px;
+}
+
+.user-name {
+  padding-top: 15px;
+}
+
+.nav.navbar-right li {
+  .btn {
+    //color: #FFF !important;
+    //margin-top: 5%;
+  }
+  .btn-danger:hover {
+    background-color: darken(#d9534f, 15%) !important;
+  }
 }
 
 /* Stock Look-yup */
